@@ -11,4 +11,3 @@
     ## Requisitos
     Python 3.7 o superior
     tkinter (incluido con Python)
-    
