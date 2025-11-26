@@ -1,1 +1,0 @@
-"# Proyecto directorio_personas" 
